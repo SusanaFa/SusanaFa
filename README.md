@@ -30,4 +30,4 @@ Desarrolladora web con certificaciones en Diseño de Experiencia de Usuario y Sc
 ---
 
 ## 📬 **Contacto**
-- 💼 [LinkedIn]([https://linkedin.com/in/tuperfi](https://www.linkedin.com/in/fullstackjavascript-farias-susana/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/fullstackjavascript-farias-susana/)
