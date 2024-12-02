@@ -26,11 +26,11 @@ Desarrolladora web con certificaciones en Diseño de Experiencia de Usuario y Sc
 ---
 
 ## ✨ **Frases favoritas**
-*"Nunca pierdes nada, ya eres todo! "*
-*"Sin jugar con la fantasía nunca ha nacido ningún trabajo creativo. "*
-*"Sé siempre tú mismo, pero no seas siempre el mismo."*
-*"tarde o temprano la disciplina vencerá la inteligencia."*
-*"Levantémonos y demos gracias, porque si hoy no hemos aprendido mucho, al menos habremos aprendido un poco, y si no hemos aprendido un poco, al menos no hemos enfermado, y si hemos enfermado, al menos no hemos muerto; por lo tanto, demos gracias."*
+- *"Nunca pierdes nada, ya eres todo! "*
+- *"Sin jugar con la fantasía nunca ha nacido ningún trabajo creativo. "*
+- *"Sé siempre tú mismo, pero no seas siempre el mismo."*
+- *"tarde o temprano la disciplina vencerá la inteligencia."*
+- *"Levantémonos y demos gracias, porque si hoy no hemos aprendido mucho, al menos habremos aprendido un poco, y si no hemos aprendido un poco, al menos no hemos enfermado, y si hemos enfermado, al menos no hemos muerto; por lo tanto, demos gracias."*
 
 ---
 
