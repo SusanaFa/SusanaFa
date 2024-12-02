@@ -21,11 +21,16 @@ Desarrolladora web con certificaciones en Diseño de Experiencia de Usuario y Sc
 
 ## 🌱 **Actualmente**
 - Aprendiendo **React Native** para desarrollo de aplicaciones móviles.
-- Explorando tecnologías de streaming para un proyecto relacionado con radios en línea.
+- Iniciando como tutora sesión en Desafío Latam
+- Siendo parte de un gran proyecto llamado <ProgramArt>
 ---
 
-## ✨ **Frase favorita**
-*"Cuando combinas tecnología con empatía, creas soluciones que trascienden pantallas y transforman realidades."*
+## ✨ **Frases favoritas**
+*"Nunca pierdes nada, ya eres todo! "*
+*"Sin jugar con la fantasía nunca ha nacido ningún trabajo creativo. "*
+*"Sé siempre tú mismo, pero no seas siempre el mismo."*
+*"tarde o temprano la disciplina vencerá la inteligencia."*
+*"Levantémonos y demos gracias, porque si hoy no hemos aprendido mucho, al menos habremos aprendido un poco, y si no hemos aprendido un poco, al menos no hemos enfermado, y si hemos enfermado, al menos no hemos muerto; por lo tanto, demos gracias."*
 
 ---
 
