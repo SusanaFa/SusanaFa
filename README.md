@@ -22,7 +22,7 @@ Desarrolladora web con certificaciones en Diseño de Experiencia de Usuario y Sc
 ## 🌱 **Actualmente**
 - Aprendiendo **React Native** para desarrollo de aplicaciones móviles.
 - Iniciando como tutora sesión en Desafío Latam
-- Siendo parte de un gran proyecto llamado <ProgramArt>
+- Siendo parte de un gran proyecto llamado ProgramArt
 ---
 
 ## ✨ **Frases favoritas**
