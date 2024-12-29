@@ -9,8 +9,8 @@ Desarrolladora web con certificaciones en Diseño de Experiencia de Usuario y Sc
 
 ## 🚀 **Habilidades principales**
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+).
-- **Backend**: Node.js, Express, PostgreSQL.
-- **Bases de datos**: Diseño, modelado y consultas con PostgreSQL.
+- **Backend**: Node.js, Express, PostgreSQL, MySql.
+- **Bases de datos**: Diseño, modelado y consultas con PostgreSQL Y MySql.
 - **Metodologías ágiles**: Scrum y diseño centrado en el usuario.
 - **Herramientas adicionales**:
   - Git y GitHub para control de versiones.
@@ -21,8 +21,9 @@ Desarrolladora web con certificaciones en Diseño de Experiencia de Usuario y Sc
 
 ## 🌱 **Actualmente**
 - Aprendiendo **React Native** para desarrollo de aplicaciones móviles.
-- Iniciando como tutora sesión en Desafío Latam
-- Siendo parte de un gran proyecto llamado ProgramArt
+- Iniciando como Tutora sesión en Desafío Latam.
+- Siendo parte de un gran proyecto llamado ProgramArt como relatora y cocreadora de cursos y talleres.
+
 ---
 
 ## ✨ **Frases favoritas**
