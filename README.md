@@ -8,9 +8,9 @@ Desarrolladora web con certificaciones en Diseño de Experiencia de Usuario y Sc
 ---
 
 ## 🚀 **Habilidades principales**
-- **Frontend**: HTML5, CSS3, JavaScript (ES6+).
-- **Backend**: Node.js, Express, PostgreSQL, MySql.
-- **Bases de datos**: Diseño, modelado y consultas con PostgreSQL Y MySql.
+- **Frontend**: HTML5, CSS3, JavaScript (ES6+), React.
+- **Backend**: Node.js, Express, PostgreSQL, MySql, MongoDB.
+- **Bases de datos**: Diseño, modelado y consultas con PostgreSQL, MySql y MongoDB.
 - **Metodologías ágiles**: Scrum y diseño centrado en el usuario.
 - **Herramientas adicionales**:
   - Git y GitHub para control de versiones.
@@ -21,9 +21,11 @@ Desarrolladora web con certificaciones en Diseño de Experiencia de Usuario y Sc
 
 ## 🌱 **Actualmente**
 - Aprendiendo **React Native** para desarrollo de aplicaciones móviles.
-- Iniciando como Tutora sesión en Desafío Latam.
-- Siendo parte de un gran proyecto llamado ProgramArt como relatora y cocreadora de cursos y talleres.
-
+- Iniciando un bootcamp de **Java**.
+- Tutora sesión en Desafío Latam.
+- Docente en programas sociales.
+- Desarrollando SensorixFoot, un sistema de monitoreo para el cuidado preventivo de los pies.
+  
 ---
 
 ## ✨ **Frases favoritas**
@@ -36,4 +38,4 @@ Desarrolladora web con certificaciones en Diseño de Experiencia de Usuario y Sc
 ---
 
 ## 📬 **Contacto**
-- 💼 [LinkedIn](https://www.linkedin.com/in/fullstackjavascript-farias-susana/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/susana-farias-82b26511a)]
