@@ -1,4 +1,4 @@
-##  Hola a todos!! Soy Susana Farías
+##  Hola Mundo!! Soy Susana Farías
 
 ![Susana codeando n_n](https://github.com/SusanaFa/SusanaFa/blob/main/code.gif)
 
@@ -21,7 +21,7 @@ Desarrolladora web con certificaciones en Diseño de Experiencia de Usuario y Sc
 
 ## 🌱 **Actualmente**
 - Aprendiendo **React Native** para desarrollo de aplicaciones móviles.
-- Iniciando un bootcamp de **Java**.
+- Aprendiendo **Java** para fortalecer mi habilidades en back end.
 - Tutora sesión en Desafío Latam.
 - Docente en programas sociales.
 - Desarrollando SensorixFoot, un sistema de monitoreo para el cuidado preventivo de los pies.
