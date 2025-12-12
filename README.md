@@ -9,7 +9,7 @@ Desarrolladora web con certificaciones en Diseño de Experiencia de Usuario y Sc
 
 ## 🚀 **Habilidades principales**
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+), React.
-- **Backend**: Node.js, Express, PostgreSQL, MySql, MongoDB.
+- **Backend**: Node.js, Express, PostgreSQL, MySql, MongoDB, Java, SpringBoot.
 - **Bases de datos**: Diseño, modelado y consultas con PostgreSQL, MySql y MongoDB.
 - **Metodologías ágiles**: Scrum y diseño centrado en el usuario.
 - **Herramientas adicionales**:
@@ -21,7 +21,7 @@ Desarrolladora web con certificaciones en Diseño de Experiencia de Usuario y Sc
 
 ## 🌱 **Actualmente**
 - Aprendiendo **React Native** para desarrollo de aplicaciones móviles.
-- Aprendiendo **Java** para fortalecer mi habilidades en back end.
+- Concluyendo un Bootcamp de **Java** para fortalecer mi habilidades en back end.
 - Tutora sesión en Desafío Latam.
 - Docente en programas sociales.
 - Desarrollando SensorixFoot, un sistema de monitoreo para el cuidado preventivo de los pies.
