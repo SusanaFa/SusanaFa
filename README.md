@@ -9,7 +9,7 @@ Desarrolladora web con certificaciones en Diseño de Experiencia de Usuario y Sc
 
 ## 🚀 **Habilidades principales**
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+), React.
-- **Backend**: Node.js, Express, PostgreSQL, MySql, MongoDB, Java, SpringBoot.
+- **Backend**: Node.js, Express, Java, SpringBoot, PostgreSQL, MySql, MongoDB. 
 - **Bases de datos**: Diseño, modelado y consultas con PostgreSQL, MySql y MongoDB.
 - **Metodologías ágiles**: Scrum y diseño centrado en el usuario.
 - **Herramientas adicionales**:
