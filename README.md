@@ -2,37 +2,66 @@
 
 ![Susana codeando n_n](https://github.com/SusanaFa/SusanaFa/blob/main/code.gif)
 
-
-Desarrolladora web con certificaciones en Diseño de Experiencia de Usuario y Scrum Fundamentals. Me apasiona el desarrollo de aplicaciones web que integren funcionalidad y una excelente experiencia de usuario.
-
----
-
-## 🚀 **Habilidades principales**
-- **Frontend**: HTML5, CSS3, JavaScript (ES6+), React.
-- **Backend**: Node.js, Express, Java, SpringBoot, PostgreSQL, MySql, MongoDB. 
-- **Bases de datos**: Diseño, modelado y consultas con PostgreSQL, MySql y MongoDB.
-- **Metodologías ágiles**: Scrum y diseño centrado en el usuario.
-- **Herramientas adicionales**:
-  - Git y GitHub para control de versiones.
-  - ORM para manejo eficiente de bases de datos.
-  - Diseño de prototipos en Figma con enfoque en la experiencia de usuario.
+Desarrolladora Full-Stack JavaScript y Java, con enfoque en experiencia de usuario y arquitectura escalable. 
+Combino desarrollo web y móvil (React, React Native, Node, Spring Boot) con visión pedagógica y trabajo en producto real.
 
 ---
 
-## 🌱 **Actualmente**
-- Aprendiendo **React Native** para desarrollo de aplicaciones móviles.
-- Concluyendo un Bootcamp de **Java** para fortalecer mi habilidades en back end.
-- Tutora sesión en Desafío Latam.
-- Docente en programas sociales.
-- Desarrollando SensorixFoot, un sistema de monitoreo para el cuidado preventivo de los pies.
-  
+##  Stack técnico
+
+### 🖥 Frontend
+HTML5 · CSS3 · JavaScript (ES6+) · React · Vite
+
+### 📱 Mobile
+React Native · BLE Integration
+
+### 🛠 Backend
+Node.js · Express · Java · Spring Boot
+
+### 🗄 Bases de Datos
+PostgreSQL · MySQL · MongoDB
+
+### ⚙ Dev & Tools
+Git · GitHub · Figma · ORM (JPA / Mongoose / Sequelize)
+
+---
+
+##  Proyectos Destacados
+
+###  SensorixFoot
+Sistema IoT para monitoreo de temperatura plantar con app móvil en React Native y backend en Node.js.
+- Integración BLE con ESP32
+- Sistema de alertas por rangos clínicos
+- Gestión de pacientes y perfiles clínicos
+
+###  Entre Patas y Hogares
+Plataforma de adopción de mascotas.
+- Backend en Spring Boot
+- Frontend en React
+- Arquitectura REST documentada
+- Modelado relacional y validaciones robustas
+
+###  Examia
+Sistema de gestión de exámenes cardiológicos.
+- Soporte técnico y mejoras continuas
+- Integración con Jira Service Management
+
+---
+
+## 🌱 Actualmente
+
+- Profundizando en React Native y arquitectura mobile.
+- Tutora en Desafío Latam.
+- Docente Full-Stack JavaScript en Sustantiva.
+- Colaborando en Examia (plataforma de gestión cardiológica).
+
 ---
 
 ## ✨ **Frases favoritas**
 - *"Nunca pierdes nada, ya eres todo! "*
 - *"Sin jugar con la fantasía nunca ha nacido ningún trabajo creativo. "*
 - *"Sé siempre tú mismo, pero no seas siempre el mismo."*
-- *"tarde o temprano la disciplina vencerá la inteligencia."*
+- *"Tarde o temprano la disciplina vencerá la inteligencia."*
 - *"Levantémonos y demos gracias, porque si hoy no hemos aprendido mucho, al menos habremos aprendido un poco, y si no hemos aprendido un poco, al menos no hemos enfermado, y si hemos enfermado, al menos no hemos muerto; por lo tanto, demos gracias."*
 
 ---
